@@ -1,0 +1,24 @@
+flipperzero-remote-control/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── codingcosmic/
+│   │   │   │           └── flipperzero/
+│   │   │   │               └── MainActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   └── values/
+│   │   │   │       └── strings.xml
+│   │   │   └── AndroidManifest.xml
+│   ├── build.gradle
+│   ├── settings.gradle
+│
+├── flipperzero/
+│   └── command_listener.py
+│
+├── LICENSE
+└── README.md
